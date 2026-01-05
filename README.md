@@ -3,11 +3,11 @@
 **Role**: Data Analyst  
 **Technologies**: Power BI, Power Query, DAX, Data Cleaning, Data Visualization  
 **Data Source**: Excel Dataset for Awesome Chocolate Sales  
-**Tutorial Reference**: [YouTube Video Tutorial](https://youtu.be/ooJO7NW4uJU?si=V0W2xVqev2UzUkXq)
+
 
 ## 🚀 Project Overview
 
-As part of my learning journey to transition into a Data Analyst role, I completed a sales analysis project for a fictional chocolate company called "Awesome Chocolate." This project was a follow-along practice from a [YouTube video tutorial](https://youtu.be/ooJO7NW4uJU?si=V0W2xVqev2UzUkXq). The aim of the project was to derive insights into sales performance, customer behavior, and regional trends. I used Power BI to create a comprehensive dashboard that allows stakeholders to explore key metrics and make data-driven business decisions.
+As part of my learning journey to transition into a Data Analyst role, I completed a sales analysis project for a fictional chocolate company called "Awesome Chocolate."  The aim of the project was to derive insights into sales performance, customer behavior, and regional trends. I used Power BI to create a comprehensive dashboard that allows stakeholders to explore key metrics and make data-driven business decisions.
 
 ![Power BI Dashboard Preview](dashboard.png)  
 *Placeholder for Power BI Dashboard*
